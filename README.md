@@ -1,6 +1,6 @@
 # dicromo-chat-app
 
-https://dicromo-chat.web.app
+Demo: https://dicromo-chat.web.app
 
 ## Recommended IDE Setup
 
